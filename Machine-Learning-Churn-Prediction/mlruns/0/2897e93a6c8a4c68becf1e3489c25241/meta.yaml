@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/2897e93a6c8a4c68becf1e3489c25241/artifacts
+end_time: 1730830240138
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 2897e93a6c8a4c68becf1e3489c25241
+run_name: Stacking_models_gb_meta
+run_uuid: 2897e93a6c8a4c68becf1e3489c25241
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730830188064
+status: 3
+tags: []
+user_id: asens

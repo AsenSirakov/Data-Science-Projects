@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3a1727451a2e490b8665e1e4f40dfe41/artifacts
+deleted_time: 1730386174940
+end_time: 1730384568057
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3a1727451a2e490b8665e1e4f40dfe41
+run_name: Decision_Tree_Model
+run_uuid: 3a1727451a2e490b8665e1e4f40dfe41
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730384562777
+status: 3
+tags: []
+user_id: asens

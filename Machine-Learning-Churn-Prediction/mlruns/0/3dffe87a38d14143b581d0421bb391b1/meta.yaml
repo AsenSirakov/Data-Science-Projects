@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/3dffe87a38d14143b581d0421bb391b1/artifacts
+deleted_time: 1730467901108
+end_time: 1730467870033
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 3dffe87a38d14143b581d0421bb391b1
+run_name: RF_Model
+run_uuid: 3dffe87a38d14143b581d0421bb391b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730467865257
+status: 3
+tags: []
+user_id: asens

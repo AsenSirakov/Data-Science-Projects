@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/72b3bd67da6a416da528252551b91960/artifacts
+end_time: 1730542897202
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 72b3bd67da6a416da528252551b91960
+run_name: Logistic_regression_balanced_weights
+run_uuid: 72b3bd67da6a416da528252551b91960
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730542894966
+status: 3
+tags: []
+user_id: asens

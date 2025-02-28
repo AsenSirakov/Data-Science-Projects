@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/7ecf6240cb0947eea597a25cbf14930d/artifacts
+deleted_time: 1731491459325
+end_time: 1731491146198
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 7ecf6240cb0947eea597a25cbf14930d
+run_name: Gradient_descent_k_best_4
+run_uuid: 7ecf6240cb0947eea597a25cbf14930d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731491144733
+status: 4
+tags: []
+user_id: asens

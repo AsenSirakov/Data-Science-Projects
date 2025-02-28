@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/d3ee75a6d9fa4e218adfab5e23490a4a/artifacts
+deleted_time: 1730378765936
+end_time: 1730378715625
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: d3ee75a6d9fa4e218adfab5e23490a4a
+run_name: SVC_Model
+run_uuid: d3ee75a6d9fa4e218adfab5e23490a4a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730378714379
+status: 4
+tags: []
+user_id: asens

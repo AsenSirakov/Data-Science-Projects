@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/046ecd3d9ac843139613911737b987d6/artifacts
+deleted_time: 1730467612281
+end_time: 1730386198493
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 046ecd3d9ac843139613911737b987d6
+run_name: Gradient_Boosting_Model
+run_uuid: 046ecd3d9ac843139613911737b987d6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730386193222
+status: 3
+tags: []
+user_id: asens

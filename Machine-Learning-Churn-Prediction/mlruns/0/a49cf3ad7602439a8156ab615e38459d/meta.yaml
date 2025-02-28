@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a49cf3ad7602439a8156ab615e38459d/artifacts
+end_time: 1730557715228
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a49cf3ad7602439a8156ab615e38459d
+run_name: Logistic_regression_random_undersample
+run_uuid: a49cf3ad7602439a8156ab615e38459d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730557712922
+status: 3
+tags: []
+user_id: asens

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/bc3f23d5657a44068aff8d7b290a102d/artifacts
+end_time: 1730557282777
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: bc3f23d5657a44068aff8d7b290a102d
+run_name: Logistic_regression_tomek_links
+run_uuid: bc3f23d5657a44068aff8d7b290a102d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730557279215
+status: 3
+tags: []
+user_id: asens

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/faa1f3310b8a42f2aca5d5ba14b08bdc/artifacts
+end_time: 1730831739904
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: faa1f3310b8a42f2aca5d5ba14b08bdc
+run_name: Voting_ensemble_lr_gb
+run_uuid: faa1f3310b8a42f2aca5d5ba14b08bdc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730831734474
+status: 3
+tags: []
+user_id: asens

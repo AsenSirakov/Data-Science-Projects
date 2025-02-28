@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/090efa2c4ffe471ba91ad550c55c183b/artifacts
+deleted_time: 1730644532512
+end_time: 1730644522598
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 090efa2c4ffe471ba91ad550c55c183b
+run_name: Logistic_regression_grid_search_clean
+run_uuid: 090efa2c4ffe471ba91ad550c55c183b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730644514446
+status: 4
+tags: []
+user_id: asens

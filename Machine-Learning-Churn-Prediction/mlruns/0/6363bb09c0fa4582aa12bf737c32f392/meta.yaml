@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/6363bb09c0fa4582aa12bf737c32f392/artifacts
+end_time: 1730559867043
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 6363bb09c0fa4582aa12bf737c32f392
+run_name: SVC_linear_undersample_oversample_both
+run_uuid: 6363bb09c0fa4582aa12bf737c32f392
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730559844485
+status: 3
+tags: []
+user_id: asens

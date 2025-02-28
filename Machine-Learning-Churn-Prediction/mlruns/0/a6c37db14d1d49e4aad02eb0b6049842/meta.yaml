@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/a6c37db14d1d49e4aad02eb0b6049842/artifacts
+deleted_time: 1730828250605
+end_time: 1730827406398
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: a6c37db14d1d49e4aad02eb0b6049842
+run_name: Voting_ensemble_lr_gb_rftuned
+run_uuid: a6c37db14d1d49e4aad02eb0b6049842
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730827397517
+status: 3
+tags: []
+user_id: asens

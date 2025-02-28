@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/0d65a20cee5d4046b4e9b6bc16694204/artifacts
+end_time: 1730832260921
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 0d65a20cee5d4046b4e9b6bc16694204
+run_name: tomek_Stacking_models_svc_meta
+run_uuid: 0d65a20cee5d4046b4e9b6bc16694204
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730832226499
+status: 3
+tags: []
+user_id: asens

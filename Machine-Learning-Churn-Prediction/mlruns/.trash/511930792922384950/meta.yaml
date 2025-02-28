@@ -1,0 +1,7 @@
+artifact_location: mlflow-artifacts:/511930792922384950
+creation_time: 1730378278900
+experiment_id: '511930792922384950'
+last_update_time: 1730378434844
+lifecycle_stage: deleted
+name: svc
+tags: {}

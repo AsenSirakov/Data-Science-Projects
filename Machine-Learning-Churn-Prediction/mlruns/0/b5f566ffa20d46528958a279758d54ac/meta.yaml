@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/b5f566ffa20d46528958a279758d54ac/artifacts
+end_time: 1730560247656
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: b5f566ffa20d46528958a279758d54ac
+run_name: SVC_linear_smote_enn
+run_uuid: b5f566ffa20d46528958a279758d54ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730560239914
+status: 3
+tags: []
+user_id: asens

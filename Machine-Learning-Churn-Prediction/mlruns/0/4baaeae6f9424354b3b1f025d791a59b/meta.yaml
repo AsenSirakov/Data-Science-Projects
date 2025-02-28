@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/4baaeae6f9424354b3b1f025d791a59b/artifacts
+end_time: 1730815691928
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 4baaeae6f9424354b3b1f025d791a59b
+run_name: Gradient_boosting_grid_search_cv
+run_uuid: 4baaeae6f9424354b3b1f025d791a59b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730815660896
+status: 3
+tags: []
+user_id: asens

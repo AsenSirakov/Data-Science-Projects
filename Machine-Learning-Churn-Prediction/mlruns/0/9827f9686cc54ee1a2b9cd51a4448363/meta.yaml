@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/9827f9686cc54ee1a2b9cd51a4448363/artifacts
+end_time: 1730557612112
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9827f9686cc54ee1a2b9cd51a4448363
+run_name: SVC_linear_tomek_links
+run_uuid: 9827f9686cc54ee1a2b9cd51a4448363
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1730557601494
+status: 3
+tags: []
+user_id: asens
