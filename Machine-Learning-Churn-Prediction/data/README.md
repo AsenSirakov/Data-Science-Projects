@@ -55,7 +55,7 @@ After extensive testing, the **best model for this dataset** is:
 ---
 
 ## **Data Sources:**
-📂 **Kaggle:** [Kaggle](https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers/data)
+📂 **Kaggle:** [Telecom Customer Churn](https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers/data)
 
 ---
 ## 📂 Dataset Information  
