@@ -33,7 +33,9 @@ This analysis is based on **two publicly available datasets** containing survey 
 
 ## 📂 Project Structure  
 📂 Data-Science-Mental-Health-CGPA-Analysis
-│── 📂 data # Contains dataset files
+
+│── 📂 data/ # Contains dataset files
+
 │── Analysis_on_mental_health.ipynb
 
 ## 🛠️ Technologies & Libraries Used
