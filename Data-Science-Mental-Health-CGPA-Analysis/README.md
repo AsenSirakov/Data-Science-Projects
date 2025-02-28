@@ -38,12 +38,6 @@ This analysis is based on **two publicly available datasets** containing survey 
 - **Statsmodels** → Statistical analysis and modeling
 
 ---
-## 📂 Project Structure  
-📂 Data-Science-Mental-Health-CGPA-Analysis
-
-│── 📂 data/ # Contains dataset files
-
-│── Analysis_on_mental_health.ipynb
 
 ## 📊 Key Insights & Findings  
 
@@ -74,6 +68,13 @@ This analysis is based on **two publicly available datasets** containing survey 
 - **Engineering and Business students require targeted mental health interventions** due to consistently high stress levels.
 - **Further research needed** to determine additional factors affecting CGPA beyond mental health.
 - **Data limitations** (skewed distributions, underrepresented groups) should be considered before generalizing findings.
+---
+## 📂 Project Structure  
+📂 Data-Science-Mental-Health-CGPA-Analysis
+
+│── 📂 data/ # Contains dataset files
+
+│── Analysis_on_mental_health.ipynb
 
 ---
 ## ▶️ How to Run the Project
