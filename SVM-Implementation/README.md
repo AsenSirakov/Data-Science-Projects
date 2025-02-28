@@ -26,6 +26,7 @@ This project provides a **comprehensive mathematical and practical exploration**
 
 ## 📂 Project Structure  
 📂 SVM-Implementation
+
 │── AsenSirakovSVM1.ipynb
 
 ## ▶️ How to Open and Run This Project  
