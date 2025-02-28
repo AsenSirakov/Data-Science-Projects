@@ -46,12 +46,28 @@ The original test set was replaced by the new test_set_v2, so here is a link to 
 
 ### **1️⃣ Deepfake Detection Performance**  
 - **ConvNeXt-Tiny** achieved the **best classification accuracy**, outperforming **ResNet-50 & EfficientNet-B0**.  
-- **Misclassification of AI-generated content in the latest test set(test_set_v2) **, requiring **adaptive decision thresholds**.  
+- **Misclassification of AI-generated content in the latest test set(test_set_v2)**, requiring **adaptive decision thresholds**.  
 - **Grad-CAM visualizations** highlight critical regions used for classification.   
 
 ### **2️⃣ Dataset & Generalization Challenges**  
 - **Lack of dataset diversity** impacts model robustness against **new AI-generated techniques**.  
 - **Confidence calibration needed** for better uncertainty estimation.  
+
+### **3️⃣ Future Work (Currently working on it)**  
+#### **Dataset Expansion:**  
+- Incorporate **more diverse AI-generated images** from various sources (**GANs, Diffusion models, etc.**).  
+- Apply **hard negative mining** to expose the model to **challenging deepfake examples**.  
+
+#### **Confidence Calibration & Threshold Tuning:**  
+- Implement **Platt scaling or isotonic regression** to improve uncertainty estimation.  
+- Experiment with **adaptive classification thresholds** instead of a static 0.5 cutoff.  
+
+#### **Architectural Improvements:**  
+- Test **Vision Transformers (ViTs) or larger ConvNeXt models** for enhanced feature extraction.  
+- Explore **self-supervised learning** to improve representations for real vs. AI-generated images.  
+
+#### **Improved Explainability:**  
+- Use **SHAP, LIME, or attention-based heatmaps** to better understand **why certain deepfakes are misclassified**.  
 
 ---
 
@@ -69,8 +85,7 @@ Run the following command to start Jupyter Notebook:
 jupyter notebook Ai_vs_real_images_classification.ipynb
 ```
 ### **3. Download the test_data from the Google drive and the convnext model if you don't want to train it yourself**
-- Open the google drive via the link
--
+- Open the google drive via the link and donwload the data and the model.
 
 ### **4. Execute the Notebook**  
 - Run all cells sequentially.  
