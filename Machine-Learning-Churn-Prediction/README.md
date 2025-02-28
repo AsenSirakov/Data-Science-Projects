@@ -82,7 +82,6 @@ Run the following command to start Jupyter Notebook:
 ```bash
 jupyter notebook Telecom_customer_churn.ipynb
 ```
-
 ### **3. Execute the Notebook**  
 - Run all cells sequentially.  
 - The notebook covers **data preprocessing, model training, evaluation, and visualization**.  
