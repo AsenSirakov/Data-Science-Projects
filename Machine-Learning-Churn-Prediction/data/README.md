@@ -53,16 +53,19 @@ After extensive testing, the **best model for this dataset** is:
 - **Logistic Regression provides feature coefficients**, allowing **interpretability** and insights into what influences churn the most.
 
 ---
+
+## **Data Sources:**
+📂 **Kaggle:** [Kaggle](https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers/data)
+
+---
 ## 📂 Dataset Information  
+
+📂 **Dataset Location:** [`/data/`](https://github.com/AsenSirakov/Data-Science-Projects/tree/main/Machine-Learning-Churn-Prediction/data)
 This project utilizes **telecom customer data** with features such as:
 - **Demographics:** Age, gender, senior citizen status  
 - **Service Details:** Internet type, contract type, additional services  
 - **Billing Information:** Monthly charges, total charges, payment method  
-- **Churn Status:** Whether a customer left the company or remained  
-
-### **Data Sources:**
-📂 **Dataset Location:** [`/data/`](https://github.com/AsenSirakov/Data-Science-Projects/tree/main/Machine-Learning-Churn-Prediction/data)  
-    **Kaggle:** ['Kaggle'](https://www.kaggle.com/datasets/tarekmuhammed/telecom-customers/data)
+- **Churn Status:** Whether a customer left the company or remained
 
 ---
 
