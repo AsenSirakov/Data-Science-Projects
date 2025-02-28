@@ -31,13 +31,6 @@ This analysis is based on **two publicly available datasets** containing survey 
 
 ---
 
-## 📂 Project Structure  
-📂 Data-Science-Mental-Health-CGPA-Analysis
-
-│── 📂 data/ # Contains dataset files
-
-│── Analysis_on_mental_health.ipynb
-
 ## 🛠️ Technologies & Libraries Used
 - **Python**
 - **Pandas, NumPy** → Data manipulation
@@ -45,25 +38,12 @@ This analysis is based on **two publicly available datasets** containing survey 
 - **Statsmodels** → Statistical analysis and modeling
 
 ---
+## 📂 Project Structure  
+📂 Data-Science-Mental-Health-CGPA-Analysis
 
+│── 📂 data/ # Contains dataset files
 
-## ▶️ How to Run the Project
-### **1. Clone the Repository**
-```bash
-git clone https://github.com/AsenSirakov/Data-Science-Projects.git
-cd Data-Science-Mental-Health-CGPA-Analysis
-```
-
-### **2. Open the Jupyter Notebook**
-Launch the analysis notebook using:
-```bash
-jupyter notebook Analysis_on_mental_health.ipynb
-```
-
-### **3. Execute the Cells**
-- Follow the **step-by-step code execution**
-- **Run all cells** to see visualizations and results
-
+│── Analysis_on_mental_health.ipynb
 
 ## 📊 Key Insights & Findings  
 
@@ -96,3 +76,19 @@ jupyter notebook Analysis_on_mental_health.ipynb
 - **Data limitations** (skewed distributions, underrepresented groups) should be considered before generalizing findings.
 
 ---
+## ▶️ How to Run the Project
+### **1. Clone the Repository**
+```bash
+git clone https://github.com/AsenSirakov/Data-Science-Projects.git
+cd Data-Science-Mental-Health-CGPA-Analysis
+```
+
+### **2. Open the Jupyter Notebook**
+Launch the analysis notebook using:
+```bash
+jupyter notebook Analysis_on_mental_health.ipynb
+```
+
+### **3. Execute the Cells**
+- Follow the **step-by-step code execution**
+- **Run all cells** to see visualizations and results
