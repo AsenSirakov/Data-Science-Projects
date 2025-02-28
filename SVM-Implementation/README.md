@@ -27,4 +27,21 @@ This project provides a **comprehensive mathematical and practical exploration**
 ## 📂 Project Structure  
 📂 SVM-Implementation
 │── AsenSirakovSVM1.ipynb
-c
+
+## ▶️ How to Open and Run This Project  
+
+### **1. Clone the Repository**  
+First, download the project by cloning the repository:  
+```bash
+git clone https://github.com/AsenSirakov/Data-Science-Projects.git
+cd SVM-Implementation
+```
+### **2. Open the Jupyter Notebook**  
+Launch the Jupyter Notebook by running the following command:  
+```bash
+jupyter notebook AsenSirakovSVM1.ipynb
+```
+### **3. Run All Cells**  
+- The notebook includes **both theoretical explanations and code implementations**.  
+- Execute the cells **sequentially** to understand **SVM theory and practical implementation**.  
+- Visualizations and results will be displayed within the notebook.  
