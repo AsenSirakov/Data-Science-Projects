@@ -84,8 +84,8 @@ Run the following command to start Jupyter Notebook:
 ```bash
 jupyter notebook Ai_vs_real_images_classification.ipynb
 ```
-### **3. Download the test_data from the Google drive and the convnext model if you don't want to train it yourself**
-- Open the google drive via the link and donwload the data and the model.
+### **3. Download the original test_data from the Google drive and the convnext model if you don't want to train it yourself**
+- Open the google drive via the link and donwload the data and the model. [Project data and model](https://drive.google.com/drive/folders/1YgW9GoGYvqR1Uexz53lEmYPNNzXpw_4c?usp=sharing)
 
 ### **4. Execute the Notebook**  
 - Run all cells sequentially.  
